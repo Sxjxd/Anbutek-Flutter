@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436870160694",
+    "project_id": "firebasicz",
+    "storage_bucket": "firebasicz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436870160694:android:519ceac04d842bda759397",
+        "android_client_info": {
+          "package_name": "com.example.anbutek_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436870160694-k6noce7vpdv15i44s47vlnf5i9mlr69v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7B7BfuR2FRU9vhpPovVWqXzJfvTD6WUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436870160694-k6noce7vpdv15i44s47vlnf5i9mlr69v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
